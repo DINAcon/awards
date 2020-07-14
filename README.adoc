@@ -1,1 +1,147 @@
 = awards
+
+== bewertung
+
+=== basis 
+
+==== https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit[Voraussetzungen der digitalen Nachhaltigkeit]
+
+==== https://de.wikipedia.org/wiki/Vergleichender_Warentest#Darstellung_der_Testergebnisse[Vergleichender Warentest - Darstellung der Testergebnisse]
+
+=== eigenschaften, kriterien & gewichtung
+
+[cols=">,1,1,1,1", options="header"] 
+|===
+| Projekt 
+| Gewichtung
+| Projektname 1 
+| Projektname 2
+| Projektname 3
+
+| Version
+| --
+| 
+| 
+| 
+
+| URL
+| --
+| 
+| 
+|  
+
+| 
+| 
+| 
+| 
+| 
+
+| image:https://upload.wikimedia.org/wikipedia/commons/8/89/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_01_Ausgereift_Farbig.svg[Ausgereift,64]
+| 10% - Ausgereift
+| 
+| 
+| 
+
+| image:https://upload.wikimedia.org/wikipedia/commons/7/79/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_02_Transparente_Strukturen_Farbig.svg[Transparente Strukturen,64]
+| 10% - Transparente Strukturen
+| 
+| 
+| 
+
+| image:https://upload.wikimedia.org/wikipedia/commons/f/ff/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_03_Semantische_Daten_Farbig.svg[Semantische Daten,64]
+| 10% - Semantische Daten
+| 
+| 
+| 
+
+| image:https://upload.wikimedia.org/wikipedia/commons/5/51/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_04_Verteilte_Standorte_Farbig.svg[Verteilte Standorte,64]
+| 10% - Verteilte Standorte
+| 
+| 
+| 
+
+| Eigenschaften des digitalen Guts 
+| **40%** (insgesamt)
+| 
+| 
+| 
+
+| 
+| 
+| 
+| 
+| 
+
+| Freie Lizenz
+| 10%
+| 
+| 
+| 
+
+| Geteiltes Wissen
+| 10%
+| 
+| 
+| 
+
+| Partizipationskultur
+| 10%
+| 
+| 
+| 
+
+| Faire Führungsstrukturen
+| 10%
+| 
+| 
+| 
+
+| Breit abgestützte Finanzierung
+| 10%
+| 
+| 
+| 
+
+| Eigenschaften des Ökosystems 
+| **50%** (insgesamt)
+| 
+| 
+| 
+
+| 
+| 
+| 
+| 
+| 
+
+| Auswirkungen auf die Gesellschaft
+| **10%**
+| 
+| 
+| 
+
+| 
+| 
+| 
+| 
+| 
+
+| Gesamtnote
+| **100%**
+| 
+| 
+|
+|===
+
+
+[cols="^,<,>", options="header"]
+|===
+ 
+| Name
+| Description
+| Version
+ 
+| Asciidoctor
+| Awesome way to write documentation
+| 1.5.0
+|===
