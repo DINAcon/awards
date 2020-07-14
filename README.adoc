@@ -18,7 +18,7 @@
 | Projektname 2
 | Projektname 3
 
-| Version
+| Version / Revision
 | --
 | 
 | 
@@ -72,32 +72,32 @@
 | 
 | 
 
-| Freie Lizenz
-| 10%
+| image:https://upload.wikimedia.org/wikipedia/commons/b/b1/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_05_Freie_Lizenz_Farbig.svg[Freie Lizenz,64]
+| 10% - Freie Lizenz
 | 
 | 
 | 
 
-| Geteiltes Wissen
-| 10%
+| image:https://upload.wikimedia.org/wikipedia/commons/3/3c/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg[Geteiltes Wissen,64]
+| 10% - Geteiltes Wissen
 | 
 | 
 | 
 
-| Partizipationskultur
-| 10%
+| image:https://upload.wikimedia.org/wikipedia/commons/b/b3/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_07_Partizipationskultur_Farbig.svg[Partizipationskultur,64]
+| 10% - Partizipationskultur
 | 
 | 
 | 
 
-| Faire Führungsstrukturen
-| 10%
+| image:https://upload.wikimedia.org/wikipedia/commons/2/24/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_08_Faire_F%C3%BChrungsstrukturen_Farbig.svg[Faire Führungsstrukturen,64]
+| 10% - Faire Führungsstrukturen
 | 
 | 
 | 
 
-| Breit abgestützte Finanzierung
-| 10%
+| image:https://upload.wikimedia.org/wikipedia/commons/7/7c/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_09_Breit_Abgest%C3%BCtzte_Finanzierung_Farbig.svg[Breit abgestützte Finanzierung,64]
+| 10% - Breit abgestützte Finanzierung
 | 
 | 
 | 
@@ -114,8 +114,8 @@
 | 
 | 
 
-| Auswirkungen auf die Gesellschaft
-| **10%**
+| image:https://upload.wikimedia.org/wikipedia/commons/2/2d/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_10_Beitrag_Zur_Nachhaltigen_Entwicklung_Farbig.svg[Auswirkungen auf die Gesellschaft,64]
+| **10%** - Auswirkungen auf die Gesellschaft
 | 
 | 
 | 
@@ -131,17 +131,4 @@
 | 
 | 
 |
-|===
-
-
-[cols="^,<,>", options="header"]
-|===
- 
-| Name
-| Description
-| Version
- 
-| Asciidoctor
-| Awesome way to write documentation
-| 1.5.0
 |===
