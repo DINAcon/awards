@@ -42,6 +42,30 @@
 | 
 | 
 
+| Qualität
+| 
+| 
+| 
+| 
+
+| Korrektheit
+| 
+| 
+| 
+| 
+
+| Sicherheit
+| 
+| 
+| 
+| 
+
+| Vollständigkeit
+| 
+| 
+| 
+| 
+
 | image:https://upload.wikimedia.org/wikipedia/commons/7/79/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_02_Transparente_Strukturen_Farbig.svg[Transparente Strukturen,64]
 | 10% - Transparente Strukturen
 | 
