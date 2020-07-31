@@ -37,7 +37,7 @@
 | 
 
 | image:https://upload.wikimedia.org/wikipedia/commons/8/89/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_01_Ausgereift_Farbig.svg[Ausgereift,64]
-| 10% - Ausgereift
+| 8% - Ausgereift
 | 
 | 
 | 
@@ -67,25 +67,25 @@
 | 
 
 | image:https://upload.wikimedia.org/wikipedia/commons/7/79/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_02_Transparente_Strukturen_Farbig.svg[Transparente Strukturen,64]
-| 10% - Transparente Strukturen
+| 8% - Transparente Strukturen
 | 
 | 
 | 
 
 | image:https://upload.wikimedia.org/wikipedia/commons/f/ff/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_03_Semantische_Daten_Farbig.svg[Semantische Daten,64]
-| 10% - Semantische Daten
+| 8% - Semantische Daten
 | 
 | 
 | 
 
 | image:https://upload.wikimedia.org/wikipedia/commons/5/51/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_04_Verteilte_Standorte_Farbig.svg[Verteilte Standorte,64]
-| 10% - Verteilte Standorte
+| 8% - Verteilte Standorte
 | 
 | 
 | 
 
-| Eigenschaften des digitalen Guts 
-| **40%** (insgesamt)
+| **Eigenschaften des digitalen Guts** 
+| 32% (insgesamt)
 | 
 | 
 | 
@@ -97,37 +97,37 @@
 | 
 
 | image:https://upload.wikimedia.org/wikipedia/commons/b/b1/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_05_Freie_Lizenz_Farbig.svg[Freie Lizenz,64]
-| 10% - Freie Lizenz
+| 8% - Freie Lizenz
 | 
 | 
 | 
 
 | image:https://upload.wikimedia.org/wikipedia/commons/3/3c/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg[Geteiltes Wissen,64]
-| 10% - Geteiltes Wissen
+| 8% - Geteiltes Wissen
 | 
 | 
 | 
 
 | image:https://upload.wikimedia.org/wikipedia/commons/b/b3/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_07_Partizipationskultur_Farbig.svg[Partizipationskultur,64]
-| 10% - Partizipationskultur
+| 8% - Partizipationskultur
 | 
 | 
 | 
 
 | image:https://upload.wikimedia.org/wikipedia/commons/2/24/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_08_Faire_F%C3%BChrungsstrukturen_Farbig.svg[Faire Führungsstrukturen,64]
-| 10% - Faire Führungsstrukturen
+| 8% - Faire Führungsstrukturen
 | 
 | 
 | 
 
 | image:https://upload.wikimedia.org/wikipedia/commons/7/7c/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_09_Breit_Abgest%C3%BCtzte_Finanzierung_Farbig.svg[Breit abgestützte Finanzierung,64]
-| 10% - Breit abgestützte Finanzierung
+| 8% - Breit abgestützte Finanzierung
 | 
 | 
 | 
 
-| Eigenschaften des Ökosystems 
-| **50%** (insgesamt)
+| **Eigenschaften des Ökosystems** 
+| 40% (insgesamt)
 | 
 | 
 | 
@@ -139,7 +139,19 @@
 | 
 
 | image:https://upload.wikimedia.org/wikipedia/commons/2/2d/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_10_Beitrag_Zur_Nachhaltigen_Entwicklung_Farbig.svg[Auswirkungen auf die Gesellschaft,64]
-| **10%** - Auswirkungen auf die Gesellschaft
+| **8%** - Auswirkungen auf die Gesellschaft
+| 
+| 
+| 
+
+| 
+| 
+| 
+| 
+| 
+
+| 
+| **20%** - Kategoriefokus: Data, Business, Government, Newcomer, Community, Education
 | 
 | 
 | 
