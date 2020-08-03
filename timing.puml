@@ -19,35 +19,29 @@ jury is Zusammenstellung
 proj is BEWERBUNG
 
 @+1
-jury is "M1"
-orga -> jury : "kick-off"
-
-@+1
 jury is "Top 3"
+orga -> jury : BBB
 
-@+1
-jury is "Award Gewinner"
+@+2
+jury is "Gewinner"
 jury -> orga : informieren
 
 @+1
 proj is "in TOP 3"
 orga -> public : publish
 
-@+2
-orga -> jury : DANKE
-jury is "M2"
-
 @+1
-jury -> orga : informieren
-jury is "Award Session vorbereiten"
+jury is "Session"
+orga -> jury
+jury -> orga : znacht
 
-@+5
-jury is "M3"
-
-@+1
+@+4
+orga -> jury
+jury -> orga : BBB
 jury is "DINAcon"
 
 @+1
-proj is GEWINNER
+proj is Gewinner
 orga -> public : publish
+jury is {-}
 @enduml
