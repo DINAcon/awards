@@ -252,6 +252,18 @@
 | 
 | 
 
+| positive ökologische, soziale oder ökonomische Wirkung
+| 4%
+| 
+| 
+| 
+
+| Herstellung und Anwendung nutzen Ressourcen aus nachhaltigem Hintergrund
+| 4%
+| 
+| 
+| 
+
 | image:https://upload.wikimedia.org/wikipedia/commons/2/2d/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_10_Beitrag_Zur_Nachhaltigen_Entwicklung_Farbig.svg[Auswirkungen auf die Gesellschaft,64]
 | **8%** - Auswirkungen auf die Gesellschaft
 | 
