@@ -120,6 +120,18 @@
 | 
 | 
 
+| Verteilter Betrieb an unterschiedlichen Orten
+| 4%
+| 
+| 
+| 
+
+| Redundante Datenhaltung
+| 4%
+| 
+| 
+| 
+
 | **Eigenschaften des digitalen Guts** 
 | 32% (insgesamt)
 | 
@@ -138,8 +150,38 @@
 | 
 | 
 
+| Nutzung von anerkannten Open Source, Open Data oder Open Access Lizenzen
+| 4%
+| 
+| 
+| 
+
+| Massnahmen zur Sicherstellung der Lizenzkonformität vorhanden (https://de.wikipedia.org/wiki/Contributor_License_Agreement[CLA], SCAs, ...)
+| 4%
+| 
+| 
+| 
+
 | image:https://upload.wikimedia.org/wikipedia/commons/3/3c/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg[Geteiltes Wissen,64]
 | 8% - Geteiltes Wissen
+| 
+| 
+| 
+
+| Nutzerbasis 
+| 4%
+| 
+| 
+| 
+
+| Diversität der Contributoren - per Individuum 
+| 2%
+| 
+| 
+| 
+
+| Diversität der Contributoren - nach Unternehmen
+| 2%
 | 
 | 
 | 
@@ -150,14 +192,50 @@
 | 
 | 
 
+| Partizipationskultur möglich (öffentliche CICD-Systeme, Artefakt-Repositories, Qualitätsmetriken)
+| 4%
+| 
+| 
+| 
+
+| Partizipations Best-Practices werden gelebt (Peer-Reviews, CI, ...)
+| 4%
+| 
+| 
+| 
+
 | image:https://upload.wikimedia.org/wikipedia/commons/2/24/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_08_Faire_F%C3%BChrungsstrukturen_Farbig.svg[Faire Führungsstrukturen,64]
 | 8% - Faire Führungsstrukturen
 | 
 | 
 | 
 
+| Transparente Governance-Strukturen
+| 4%
+| 
+| 
+| 
+
+| Anwendung von Good Governance Best-Practices (bspw. öffentliche Wahlen, Meritokratie-Prinzip, ...)
+| 4%
+| 
+| 
+| 
+
 | image:https://upload.wikimedia.org/wikipedia/commons/7/7c/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_09_Breit_Abgest%C3%BCtzte_Finanzierung_Farbig.svg[Breit abgestützte Finanzierung,64]
 | 8% - Breit abgestützte Finanzierung
+| 
+| 
+| 
+
+| Diversität der Finanzierung der Infrastrukturkomponenten (Hardware, Dienste, Community)
+| 4%
+| 
+| 
+| 
+
+| Diversität der Finanzierung der involvierten Personen (Art der Unternehmung (NPO, PO, ...), ...)
+| 4%
 | 
 | 
 | 
