@@ -276,7 +276,31 @@
 | 
 | 
 
+| Aktualität
+| 5%
 | 
+| 
+| 
+
+| Originalität
+| 5%
+| 
+| 
+| 
+
+| Highlight-Faktor
+| 5%
+| 
+| 
+| 
+
+| Relevanz
+| 5%
+| 
+| 
+| 
+
+| image:https://upload.wikimedia.org/wikipedia/commons/f/ff/DINAcon_Logo_rgb_RZ.svg[DINAcon Logo,64]
 | **20%** - Kategoriefokus: Data, Business, Government, Newcomer, Community, Education
 | 
 | 
