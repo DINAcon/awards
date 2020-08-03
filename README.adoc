@@ -43,25 +43,25 @@
 | 
 
 | Qualität
-| 
+| 2%
 | 
 | 
 | 
 
 | Korrektheit
-| 
+| 2%
 | 
 | 
 | 
 
 | Sicherheit
-| 
+| 2%
 | 
 | 
 | 
 
 | Vollständigkeit
-| 
+| 2%
 | 
 | 
 | 
@@ -72,8 +72,44 @@
 | 
 | 
 
+| Quellcode vollständig offengelegt
+| 4%
+| 
+| 
+| 
+
+| Datenformate nutzen offenene Standards
+| 4%
+| 
+| 
+| 
+
 | image:https://upload.wikimedia.org/wikipedia/commons/f/ff/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_03_Semantische_Daten_Farbig.svg[Semantische Daten,64]
 | 8% - Semantische Daten
+| 
+| 
+| 
+
+| Daten sind untereinander verknüpft
+| 2%
+| 
+| 
+| 
+
+| Daten sind mit externen, offenen Daten verknüpft
+| 2%
+| 
+| 
+| 
+
+| Metadaten / -formate sind verfügbar
+| 2%
+| 
+| 
+| 
+
+| Daten werden bereits maschinell weiterverarbeitet, aggregiert und interpretiert
+| 2%
 | 
 | 
 | 
