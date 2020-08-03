@@ -1,5 +1,9 @@
 = awards
 
+== timing
+
+image::http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/DINAcon/awards/master/timing.puml[timing]
+
 == bewertung
 
 === basis 
