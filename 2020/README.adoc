@@ -6,4 +6,4 @@
 
 == Zeitplan
 
-image::http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/DINAcon/awards/master/2020/timing.puml[timing]
+image::http://www.plantuml.com/plantuml/proxy?src=https://raw.github.com/DINAcon/awards/master/2020/timing.puml[timing]
