@@ -1,8 +1,68 @@
 =  2020
 
-== Jurymitglieder
+== Jury
 
+[cols="1,1", options="header"] 
+|===
+| Kategorie 
+| Mitglieder 
 
+(alphabetisch per Nachname sortiert)
+
+| Open Data Award
+| 
+
+Lucas Bickel
+
+Gian-Maria Daffré
+
+Andreas Kellerhals
+
+| Business Award
+| 
+
+Nicola Christener
+
+Martin Edenhofer
+
+Hannes Gassert
+
+| Open Government Award
+| 
+
+Alenka Bonnard
+
+Andreas von Gunten
+
+Che Wagner
+
+| Best Newcomer Award
+| 
+
+Brigitte Hulliger
+
+Nino Müller
+
+Urs Stender
+
+| Community Award
+| 
+
+Nikki Böhler
+
+Urs Fässler
+
+Rahel Ryf
+
+| Open Knowledge Award
+| 
+
+Jörg Berkel
+
+Cornelia Epprecht
+
+Bernhard Suter
+|===
 
 == Zeitplan
 
