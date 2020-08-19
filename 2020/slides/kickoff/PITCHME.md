@@ -45,14 +45,24 @@ start der shortlist "best 3" phase
 +++
 
 ## zeitplan(ung)
+ - bis zum 06.09. : Rückmeldung Jury Shortlist pro Kategorie
+ - in KW 38 - TBD Zeit & Ort
+ - Kategoriesprecher bis zur DINAcon
 
 +++ 
 
 ## awards
 
+idee
+
 --- 
 
 ## breakout session(s)
+### Ziel
+
+- erster Austausch zu Projekten 
+- Zeitplanung
+- "Kategoriesprecher" benennen
 
 --- 
 
