@@ -28,6 +28,16 @@ kennenlernen ✅
 
 start der shortlist "best 3" phase
 
++++
+
+## timing
+
+15' willkommensrunde
+15' allgemeine infos
+30' breakout session(s) in 3er teams
+15' wrap-up
+15' puffer
+
 ---
 
 ## allgemeine infos
@@ -36,10 +46,18 @@ start der shortlist "best 3" phase
 
 ## zeitplan(ung)
 
++++ 
+
+## awards
+
 --- 
 
-## DINAcon Awards
+## breakout session(s)
 
 --- 
 
-## nächstes Treffen
+## wrap-up
+
++++
+
+## nächste(s) Treffen
