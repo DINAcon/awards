@@ -65,37 +65,37 @@ bewerbung(en) & nomination(en)
 
 ## Open Data Award
 
-Bewerbungen auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/rjs63P5KdsHSmZm)
+Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/rjs63P5KdsHSmZm)
 
 +++ 
 
 ## Business Award
 
-Bewerbungen auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/bXqE5TW3YeC8DbQ)
+Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/bXqE5TW3YeC8DbQ)
 
 +++ 
 
 ## Open Government Award
 
-Bewerbungen auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/YFKAMkFTi4HL2xG)
+Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/YFKAMkFTi4HL2xG)
 
 +++ 
 
 ## Best Newcomer Award
 
-Bewerbungen auf [→ Nextcloud]()
+Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/RsgfEYtwBqiDzYk)
 
 +++ 
 
 ## Community Award
 
-Bewerbungen auf [→ Nextcloud]()
+Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/KD9HJftycizKofY)
 
 +++ 
 
 ## Open Knowledge Award
 
-Bewerbungen auf [→ Nextcloud]()
+Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/Z7gJx8LrEfnSw72)
 
 --- 
 
