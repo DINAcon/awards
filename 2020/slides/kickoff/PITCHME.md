@@ -24,7 +24,7 @@
 
 kennenlernen ✅
 
-(in)formieren : klarheit bis zum 23.11
+(in)formieren : klarheit bis zum 23.10
 
 start der shortlist "best 3" phase
 
