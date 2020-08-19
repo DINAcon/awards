@@ -22,7 +22,11 @@
 
 ## ziel(e)
 
-kennenlernen @box[fragment](✅)
+kennenlernen ✅
+
+(in)formieren : klarheit bis zum 23.11
+
+start der shortlist "best 3" phase
 
 ---
 
@@ -32,10 +36,10 @@ kennenlernen @box[fragment](✅)
 
 ## zeitplan(ung)
 
-+++
+--- 
 
-## 
+## DINAcon Awards
 
-+++
+--- 
 
-## 
+## nächstes Treffen
