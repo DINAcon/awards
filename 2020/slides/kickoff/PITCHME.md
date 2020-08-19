@@ -4,7 +4,7 @@
 
 ## willkommen
 
-### Markus (Tiede) & Maria (Fanger)
+### Marku[s](https://gitpitch.com/markustiede/about/master?p=slides/intro) (Tiede) & Maria (Fanger)
 
 +++
 
