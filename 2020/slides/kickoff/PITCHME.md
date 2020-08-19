@@ -71,13 +71,13 @@ Bewerbungen auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.p
 
 ## Business Award
 
-Bewerbungen auf [→ Nextcloud]()
+Bewerbungen auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/bXqE5TW3YeC8DbQ)
 
 +++ 
 
 ## Open Government Award
 
-Bewerbungen auf [→ Nextcloud]()
+Bewerbungen auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/YFKAMkFTi4HL2xG)
 
 +++ 
 
