@@ -10,7 +10,7 @@
 
 ## who is who
 
-(kl)eine Vorstellungsrunde
+(kl)eine [Vorstellungsrunde](https://github.com/DINAcon/awards/tree/master/2020#jury)
 
 +++
 
