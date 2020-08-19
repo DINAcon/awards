@@ -1,0 +1,1 @@
+---?image=https://upload.wikimedia.org/wikipedia/commons/f/ff/DINAcon_Logo_rgb_RZ.svg&size=contain
