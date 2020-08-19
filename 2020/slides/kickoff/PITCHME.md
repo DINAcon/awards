@@ -65,25 +65,37 @@ bewerbung(en) & nomination(en)
 
 ## Open Data Award
 
+Bewerbungen auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/rjs63P5KdsHSmZm)
+
 +++ 
 
 ## Business Award
+
+Bewerbungen auf [→ Nextcloud]()
 
 +++ 
 
 ## Open Government Award
 
+Bewerbungen auf [→ Nextcloud]()
+
 +++ 
 
 ## Best Newcomer Award
+
+Bewerbungen auf [→ Nextcloud]()
 
 +++ 
 
 ## Community Award
 
+Bewerbungen auf [→ Nextcloud]()
+
 +++ 
 
 ## Open Knowledge Award
+
+Bewerbungen auf [→ Nextcloud]()
 
 --- 
 
