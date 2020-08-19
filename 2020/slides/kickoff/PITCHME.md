@@ -55,6 +55,36 @@ start der shortlist "best 3" phase
 
 idee
 
++++ 
+
+## kategorien
+
+bewerbung(en) & nomination(en)
+
++++ 
+
+## Open Data Award
+
++++ 
+
+## Business Award
+
++++ 
+
+## Open Government Award
+
++++ 
+
+## Best Newcomer Award
+
++++ 
+
+## Community Award
+
++++ 
+
+## Open Knowledge Award
+
 --- 
 
 ## breakout session(s)
