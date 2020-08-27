@@ -63,9 +63,29 @@ idee
 
 +++ 
 
+## kriterien 
+
+[vorschlag](https://github.com/DINAcon/awards/blob/e73dafb61631d17251efa54493f74b5697ecf2da/2020/criteria.adoc) ←
+
+3 stufig
+ 0. sinnhaft?
+ 1. shortlist: qualifizierbar ?
+ 2. finalist(s): quantifizierbar ?
+
++++ 
+
 ## kategorien
 
 bewerbung(en) & nomination(en)
+
+--- 
+
+## breakout session(s)
+### Ziel
+
+- erster Austausch zu Projekten 
+- Zeitplanung
+- "Kategoriesprecher" benennen
 
 +++ 
 
@@ -105,17 +125,19 @@ Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php
 
 --- 
 
-## breakout session(s)
-### Ziel
-
-- erster Austausch zu Projekten 
-- Zeitplanung
-- "Kategoriesprecher" benennen
-
---- 
-
 ## wrap-up
+
+nächste Schritte sind klar ✅
+
++++
+
+## offene fragen?
 
 +++
 
 ## nächste(s) treffen
+
+physischer Workshop ~ 2h
+
+anschliessend gemeinsames Nachtessen
+
