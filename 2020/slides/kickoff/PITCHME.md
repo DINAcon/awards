@@ -90,8 +90,8 @@ bewerbung(en) & nomination(en)
 ## breakout session(s)
 ### ziel
 
-- erster Austausch zu Projekten 
-- Zeitplanung
+- erstes Kennenlernen: Person(en) & Projekt(e)
+- (zusammen)-Arbeitsmodus klären
 - "Kategoriesprecher" benennen
 
 +++ 
