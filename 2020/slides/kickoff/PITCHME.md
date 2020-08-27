@@ -164,4 +164,4 @@ anschliessend gemeinsames Nachtessen
 
 ---
 
-## vielen dank
+## vielen dank!
