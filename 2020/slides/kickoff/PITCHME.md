@@ -71,7 +71,7 @@ ggfs. Sprecher an der DINAcon
 
 ## awards & kriterien
 
-[idee](https://awards.dinacon.ch/awards-kategorien-2020/)
+[idee](https://awards.dinacon.ch/vergangene-awards/)
 
 [vorschlag](https://github.com/DINAcon/awards/blob/e73dafb61631d17251efa54493f74b5697ecf2da/2020/criteria.adoc)
 
