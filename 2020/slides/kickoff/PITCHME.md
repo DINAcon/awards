@@ -100,11 +100,15 @@ nomination(en) & bewerbung(en)
 
 ## Open Data Award
 
+Breakout-Raum 1
+
 Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/rjs63P5KdsHSmZm)
 
 +++ 
 
 ## Business Award
+
+Breakout-Raum 2
 
 Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/bXqE5TW3YeC8DbQ)
 
@@ -112,11 +116,15 @@ Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php
 
 ## Open Government Award
 
+Breakout-Raum 3
+
 Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/YFKAMkFTi4HL2xG)
 
 +++ 
 
 ## Best Newcomer Award
+
+Breakout-Raum 4
 
 Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/RsgfEYtwBqiDzYk)
 
@@ -124,11 +132,15 @@ Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php
 
 ## Community Award
 
+Breakout-Raum 5
+
 Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/KD9HJftycizKofY)
 
 +++ 
 
 ## Open Knowledge Award
+
+Breakout-Raum 6
 
 Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/Z7gJx8LrEfnSw72)
 
