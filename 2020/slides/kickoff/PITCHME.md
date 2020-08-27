@@ -10,6 +10,8 @@
 
 ## who is who
 
+Sie | du ?
+
 (kl)eine [Vorstellungsrunde](https://github.com/DINAcon/awards/tree/master/2020#jury)
 
 +++
@@ -48,6 +50,10 @@ start der shortlist "best 3" phase
  - bis zum 06.09. : Rückmeldung Jury Shortlist pro Kategorie
  - in KW 38 - TBD Zeit & Ort
  - Kategoriesprecher bis zur DINAcon
+
++++ 
+
+![](http://www.plantuml.com/plantuml/proxy?src=https://raw.github.com/DINAcon/awards/master/2020/timing.puml)
 
 +++ 
 
