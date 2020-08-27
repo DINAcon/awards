@@ -148,7 +148,7 @@
 | 
 | 
 
-| Nutzung von anerkannten Open Source, Open Data oder Open Access Lizenzen
+| Nutzung von anerkannten Open Source, Open Data oder Open Access Lizenzen footnote:osi-license[link:https://opensource.org/licenses[Liste von, vom OSI auf opensourceheit geprüften Open Source Lizenzen]]
 | 4%
 | 
 | 
