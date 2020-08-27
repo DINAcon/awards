@@ -57,7 +57,7 @@ start der shortlist "best 3" phase
 
 ![](http://www.plantuml.com/plantuml/proxy?src=https://raw.github.com/DINAcon/awards/master/2020/timing.puml)
 
-@[github](https://github.com/DINAcon/awards/projects/1)
+[@github](https://github.com/DINAcon/awards/projects/1)
 
 +++
 
