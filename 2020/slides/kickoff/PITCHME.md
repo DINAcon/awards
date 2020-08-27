@@ -46,7 +46,7 @@ start der shortlist "best 3" phase
 
 +++
 
-## zeitp(en)
+## zeit(en)
  - bis zum 06.09. : Rückmeldung Jury Shortlist pro Kategorie
  - Workshop in KW 38 - TBD: Zeit & Ort
  - DINAcon 2020:
@@ -56,12 +56,6 @@ start der shortlist "best 3" phase
 ## plan(ung)
 
 ![](http://www.plantuml.com/plantuml/proxy?src=https://raw.github.com/DINAcon/awards/master/2020/timing.puml)
-
-+++ 
-
-## awards
-
-idee
 
 +++
 
@@ -73,14 +67,15 @@ ggfs. Sprecher an der DINAcon
 
 +++ 
 
-## kriterien 
+## awards & kriterien
 
-[vorschlag](https://github.com/DINAcon/awards/blob/e73dafb61631d17251efa54493f74b5697ecf2da/2020/criteria.adoc) ←
+[idee](https://awards.dinacon.ch/awards-kategorien-2020/)
 
-3 stufig
- 0. sinnhaft?
- 1. shortlist: qualifizierbar ?
- 2. finalist(s): quantifizierbar ?
+[vorschlag](https://github.com/DINAcon/awards/blob/e73dafb61631d17251efa54493f74b5697ecf2da/2020/criteria.adoc)
+
+ 1. sinnvoll ?
+ 2. shortlist: qualifizierbar ?
+ 3. finalist(s): quantifizierbar ?
 
 +++ 
 
@@ -88,10 +83,12 @@ ggfs. Sprecher an der DINAcon
 
 bewerbung(en) & nomination(en)
 
+40+ & 19 ...
+
 --- 
 
 ## breakout session(s)
-### Ziel
+### ziel
 
 - erster Austausch zu Projekten 
 - Zeitplanung
@@ -137,6 +134,8 @@ Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php
 
 ## wrap-up
 
+team(s) sind klar - erster Austausch ✅
+arbeitsmodus im team ist klar ✅
 nächste Schritte sind klar ✅
 
 +++
