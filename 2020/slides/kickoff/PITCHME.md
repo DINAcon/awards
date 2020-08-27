@@ -142,6 +142,16 @@ nächste Schritte sind klar ✅
 
 +++
 
+## kommunikation
+
+per eMail via Kategoriesprecher
+
+an Markus & Maria
+
+cc: all / all pro kategorie
+
++++
+
 ## offene fragen?
 
 +++
