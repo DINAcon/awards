@@ -10,13 +10,13 @@
 
 ## willkommen
 
+Sie | du ?
+
 ### Marku[s](https://gitpitch.com/markustiede/about/master?p=slides/intro) (Tiede) & Maria (Fanger)
 
 +++
 
 ## who is who
-
-Sie | du ?
 
 (kl)eine [Vorstellungsrunde](https://github.com/DINAcon/awards/tree/master/2020#jury)
 
