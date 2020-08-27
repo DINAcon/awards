@@ -46,12 +46,14 @@ start der shortlist "best 3" phase
 
 +++
 
-## zeitplan(ung)
+## zeitp(en)
  - bis zum 06.09. : Rückmeldung Jury Shortlist pro Kategorie
- - in KW 38 - TBD Zeit & Ort
- - Kategoriesprecher bis zur DINAcon
+ - Workshop in KW 38 - TBD: Zeit & Ort
+ - DINAcon 2020:
 
 +++ 
+
+## plan(ung)
 
 ![](http://www.plantuml.com/plantuml/proxy?src=https://raw.github.com/DINAcon/awards/master/2020/timing.puml)
 
@@ -60,6 +62,14 @@ start der shortlist "best 3" phase
 ## awards
 
 idee
+
++++
+
+## 1 person
+
+Kontaktpunkt pro Kategorie
+
+ggfs. Sprecher an der DINAcon
 
 +++ 
 
