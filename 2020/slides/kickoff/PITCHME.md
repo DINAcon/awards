@@ -47,7 +47,7 @@ start der shortlist "best 3" phase
 +++
 
 ## zeit(en)
- - bis zum 06.09. : Rückmeldung Jury Shortlist pro Kategorie
+ - bis zum 06.09. : Shortlist pro Kategorie
  - Workshop in KW 38 - TBD: Zeit & Ort
  - DINAcon 2020:
 
