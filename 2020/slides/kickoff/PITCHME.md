@@ -135,7 +135,9 @@ Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php
 ## wrap-up
 
 team(s) sind klar - erster Austausch ✅
+
 arbeitsmodus im team ist klar ✅
+
 nächste Schritte sind klar ✅
 
 +++
