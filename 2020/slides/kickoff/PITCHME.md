@@ -83,7 +83,7 @@ ggfs. Sprecher an der DINAcon
 
 ## kategorien
 
-bewerbung(en) & nomination(en)
+nomination(en) & bewerbung(en) 
 
 40+ & 19 ...
 
