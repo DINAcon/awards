@@ -49,7 +49,7 @@ start der shortlist "best 3" phase
 ## zeit(en)
  - bis zum 06.09. : Shortlist pro Kategorie
  - Workshop in KW 38 - Ort ?? & [Zeit (doodle)](https://doodle.com/poll/tr689eq8cc8hhk3a)
- - DINAcon 2020:
+ - DINAcon 2020 - format: virtuell
 
 +++ 
 
