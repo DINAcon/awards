@@ -52,9 +52,9 @@ https://www.linkedin.com/in/urs-stender-920646119/[Urs Stender]
 | Community Award
 | 
 
-link:++https://www.linkedin.com/in/nikki-böhler-75922573/++[Nikki Böhler]
+link:++https://www.linkedin.com/in/nikki-böhler-75922573/++[_Nikki Böhler_]
 
-link:++https://www.linkedin.com/in/urs-fässler-09999194/++[Urs Fässler]
+link:++https://www.linkedin.com/in/urs-fässler-09999194/++[_Urs Fässler_]
 
 https://www.linkedin.com/in/rahel-ryf-54a4b4160/[*Rahel Ryf*]
 
@@ -71,6 +71,8 @@ https://www.linkedin.com/in/bernhardsuter/[Bernhard Suter]
 === Legende
 
 *https://de.wikipedia.org/wiki/Schriftschnitt#Variation_der_Schriftstärke[BOLD]* : Hauptansprechpartner
+
+_https://de.wikipedia.org/wiki/Kursivschrift[italic]_ : Sessionorganisator
 
 == Zeitplan
 
