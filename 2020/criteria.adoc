@@ -154,7 +154,7 @@
 | 
 | 
 
-| Massnahmen zur Sicherstellung der Lizenzkonformität vorhanden (https://de.wikipedia.org/wiki/Contributor_License_Agreement[CLA], SCAs, ...)
+| Massnahmen zur Sicherstellung der Lizenzkonformität vorhanden (https://en.wikipedia.org/wiki/Developer_Certificate_of_Origin[DCO],  https://de.wikipedia.org/wiki/Contributor_License_Agreement[CLA], Software Composition Analysis (SCAs), ...)
 | 4%
 | 
 | 
