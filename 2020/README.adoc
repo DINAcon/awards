@@ -1,6 +1,6 @@
 =  2020
 
-== slides
+== touchpoints
 
 === https://gitpitch.com/dinacon/awards/master?p=2020/slides/kickoff[Kick-Off]
 
