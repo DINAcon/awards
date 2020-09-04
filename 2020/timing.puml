@@ -33,7 +33,7 @@ orga -> public : publish
 @+1
 jury is "Session"
 orga -> jury
-jury -> orga : znacht
+jury -> orga : workshop
 
 @+4
 orga -> jury
