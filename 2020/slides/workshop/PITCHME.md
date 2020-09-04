@@ -9,3 +9,39 @@
 +++
 
 ## willkommen
+
+--- 
+
+## Open Data Award
+
+Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/rjs63P5KdsHSmZm)
+
+--- 
+
+## Business Award
+
+Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/bXqE5TW3YeC8DbQ)
+
+--- 
+
+## Open Government Award
+
+Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/YFKAMkFTi4HL2xG)
+
+--- 
+
+## Best Newcomer Award
+
+Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/RsgfEYtwBqiDzYk)
+
+--- 
+
+## Community Award
+
+Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/KD9HJftycizKofY)
+
+--- 
+
+## Open Knowledge Award
+
+Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/Z7gJx8LrEfnSw72)
