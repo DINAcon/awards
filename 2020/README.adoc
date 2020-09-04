@@ -4,6 +4,8 @@
 
 === https://gitpitch.com/dinacon/awards/master?p=2020/slides/kickoff[Kick-Off]
 
+=== https://gitpitch.com/dinacon/awards/master?p=2020/slides/workshop[Finalists Workshop]
+
 == Jury
 
 [cols="1,1", options="header"] 
