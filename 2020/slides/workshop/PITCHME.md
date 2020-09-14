@@ -32,7 +32,7 @@ ende der shortlist "best 3" phase → veröffentlichung nächste woche
 
 ## voting
 
-all jury member(s) vote
+all (participating) jury member(s) vote
 
 voting via BBB
 
@@ -69,7 +69,6 @@ who & why?
 ## Open Data Award
 
 dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/rjs63P5KdsHSmZm)
-
 
 +++
 
@@ -134,7 +133,6 @@ who & why?
 ## Community Award
 
 dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/KD9HJftycizKofY)
-
 
 +++
 
