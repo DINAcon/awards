@@ -23,9 +23,9 @@ ende der shortlist "best 3" phase → veröffentlichung nächste woche
 ## timing
 
  - 15' willkommen & infos ←←
- - 45' 3 x top 3 + 3 (discuss) & vote
+ - 45' 3 x top 3 + 3 (q&a) & vote
  - 15' pause
- - 35' 3 x top 3 +  3 (discuss) & vote
+ - 35' 3 x top 3 + 3 (q&a) & vote
  - 10' wrap up & puffer
 
 +++
