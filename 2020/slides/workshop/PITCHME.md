@@ -10,7 +10,31 @@
 
 ## willkommen
 
++++ 
+
+## ziel(e)
+
+ende der shortlist "best 3" phase → Veröffentlichung nächste Woche
+
+6 award gewinner festlegen
+
++++
+
+## timing
+
+ - 15' willkommen & infos ←←
+ - 45' 3 x top 3 + 3 discuss & vote
+ - 15' pause
+ - 35' 3 x top 3 +  3 discuss & vote
+ - 10' wrap up & puffer
+
 --- 
+
+## Best Newcomer Award
+
+Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/RsgfEYtwBqiDzYk)
+
+---
 
 ## Open Data Award
 
@@ -22,17 +46,15 @@ Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php
 
 Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/bXqE5TW3YeC8DbQ)
 
+---
+
+# 15' break
+
 --- 
 
 ## Open Government Award
 
 Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/YFKAMkFTi4HL2xG)
-
---- 
-
-## Best Newcomer Award
-
-Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/RsgfEYtwBqiDzYk)
 
 --- 
 
