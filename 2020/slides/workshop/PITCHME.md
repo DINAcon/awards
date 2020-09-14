@@ -23,10 +23,26 @@ ende der shortlist "best 3" phase → Veröffentlichung nächste Woche
 ## timing
 
  - 15' willkommen & infos ←←
- - 45' 3 x top 3 + 3 discuss & vote
+ - 45' 3 x top 3 + 3 (discuss) & vote
  - 15' pause
- - 35' 3 x top 3 +  3 discuss & vote
+ - 35' 3 x top 3 +  3 (discuss) & vote
  - 10' wrap up & puffer
+
++++
+
+## voting
+
+all jury member(s) vote
+
+voting via BBB
+
+[einfache mehrheit](https://de.wikipedia.org/wiki/Mehrheit#Einfache_Mehrheit) mit enthaltung(en)
+
++++
+
+## beschlussfähig(keit)?
+
+[gegeben?](https://de.wikipedia.org/wiki/Beschlussfähigkeit)
 
 --- 
 
