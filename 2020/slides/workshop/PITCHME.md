@@ -16,6 +16,8 @@
 
 ende der shortlist "best 3" phase → veröffentlichung nächste woche
 
+BBB gruppenfoto - jetzt!
+
 6 award gewinner festlegen
 
 +++
