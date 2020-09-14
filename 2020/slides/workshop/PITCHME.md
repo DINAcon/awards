@@ -14,7 +14,7 @@
 
 ## ziel(e)
 
-ende der shortlist "best 3" phase → Veröffentlichung nächste Woche
+ende der shortlist "best 3" phase → veröffentlichung nächste woche
 
 6 award gewinner festlegen
 
@@ -36,11 +36,11 @@ all jury member(s) vote
 
 voting via BBB
 
-[einfache mehrheit](https://de.wikipedia.org/wiki/Mehrheit#Einfache_Mehrheit) mit enthaltung(en)
+[einfache mehrheit](https://de.wikipedia.org/wiki/Mehrheit#Einfache_Mehrheit) inkl. enthaltung(en)
 
 +++
 
-## beschlussfähig(keit)?
+## beschlussfähig(keit)
 
 [gegeben?](https://de.wikipedia.org/wiki/Beschlussfähigkeit)
 
@@ -48,19 +48,62 @@ voting via BBB
 
 ## Best Newcomer Award
 
-Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/RsgfEYtwBqiDzYk)
+dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/RsgfEYtwBqiDzYk)
+
++++
+
+# top 3
+
+who & why?
+
++++
+
+# frage(n)
+
++++
+
+# abstimmung(en)
 
 ---
 
 ## Open Data Award
 
-Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/rjs63P5KdsHSmZm)
+dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/rjs63P5KdsHSmZm)
+
+
++++
+
+# top 3
+
+who & why?
+
++++
+
+# frage(n)
+
++++
+
+# abstimmung(en)
 
 --- 
 
 ## Business Award
 
-Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/bXqE5TW3YeC8DbQ)
+dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/bXqE5TW3YeC8DbQ)
+
++++
+
+# top 3
+
+who & why?
+
++++
+
+# frage(n)
+
++++
+
+# abstimmung(en)
 
 ---
 
@@ -70,16 +113,53 @@ Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php
 
 ## Open Government Award
 
-Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/YFKAMkFTi4HL2xG)
+dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/YFKAMkFTi4HL2xG)
+
++++
+
+# top 3
+
+who & why?
+
++++
+
+# frage(n)
+
++++
+
+# abstimmung(en)
 
 --- 
 
 ## Community Award
 
-Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/KD9HJftycizKofY)
+dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/KD9HJftycizKofY)
+
+
++++
+
+# top 3
+
+who & why?
+
++++
+
+# frage(n)
+
++++
+
+# abstimmung(en)
 
 --- 
 
 ## Open Knowledge Award
 
-Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/Z7gJx8LrEfnSw72)
+dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/Z7gJx8LrEfnSw72)
+
++++
+
+# abstimmung(en)
+
+---
+
+## wrap up & puffer
