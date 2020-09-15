@@ -112,7 +112,7 @@ who & why?
 
 --- 
 
-## Open Government Award
+## Community Award
 
 dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/YFKAMkFTi4HL2xG)
 
@@ -132,7 +132,7 @@ who & why?
 
 --- 
 
-## Community Award
+## Open Government Award
 
 dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/KD9HJftycizKofY)
 
