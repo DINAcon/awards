@@ -1,0 +1,318 @@
+= bewertung
+
+== basis 
+
+=== https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit[Voraussetzungen der digitalen Nachhaltigkeit]
+
+=== https://de.wikipedia.org/wiki/Vergleichender_Warentest#Darstellung_der_Testergebnisse[Vergleichender Warentest - Darstellung der Testergebnisse]
+
+== eigenschaften, kriterien & gewichtung
+
+[cols=">,1,1,1,1", options="header"] 
+|===
+| Projekt 
+| Gewichtung
+| Projektname 1 
+| Projektname 2
+| Projektname 3
+
+| Version / Revision
+| --
+| 
+| 
+| 
+
+| URL
+| --
+| 
+| 
+|  
+
+| 
+| 
+| 
+| 
+| 
+
+| image:https://upload.wikimedia.org/wikipedia/commons/8/89/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_01_Ausgereift_Farbig.svg[Ausgereift,64]
+| 8% - Ausgereift
+| 
+| 
+| 
+
+| Qualität
+| 2%
+| 
+| 
+| 
+
+| Korrektheit
+| 2%
+| 
+| 
+| 
+
+| Sicherheit
+| 2%
+| 
+| 
+| 
+
+| Vollständigkeit
+| 2%
+| 
+| 
+| 
+
+| image:https://upload.wikimedia.org/wikipedia/commons/7/79/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_02_Transparente_Strukturen_Farbig.svg[Transparente Strukturen,64]
+| 8% - Transparente Strukturen
+| 
+| 
+| 
+
+| Quellcode vollständig offengelegt
+| 4%
+| 
+| 
+| 
+
+| Datenformate nutzen offenene Standards
+| 4%
+| 
+| 
+| 
+
+| image:https://upload.wikimedia.org/wikipedia/commons/f/ff/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_03_Semantische_Daten_Farbig.svg[Semantische Daten,64]
+| 8% - Semantische Daten
+| 
+| 
+| 
+
+| Daten sind untereinander verknüpft
+| 2%
+| 
+| 
+| 
+
+| Daten sind mit externen, offenen Daten verknüpft
+| 2%
+| 
+| 
+| 
+
+| Metadaten / -formate sind verfügbar
+| 2%
+| 
+| 
+| 
+
+| Daten werden bereits maschinell weiterverarbeitet, aggregiert und interpretiert
+| 2%
+| 
+| 
+| 
+
+| image:https://upload.wikimedia.org/wikipedia/commons/5/51/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_04_Verteilte_Standorte_Farbig.svg[Verteilte Standorte,64]
+| 8% - Verteilte Standorte
+| 
+| 
+| 
+
+| Verteilter Betrieb an unterschiedlichen Orten
+| 4%
+| 
+| 
+| 
+
+| Redundante Datenhaltung
+| 4%
+| 
+| 
+| 
+
+| **Eigenschaften des digitalen Guts** 
+| 32% (insgesamt)
+| 
+| 
+| 
+
+| 
+| 
+| 
+| 
+| 
+
+| image:https://upload.wikimedia.org/wikipedia/commons/b/b1/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_05_Freie_Lizenz_Farbig.svg[Freie Lizenz,64]
+| 8% - Freie Lizenz
+| 
+| 
+| 
+
+| Nutzung von anerkannten Open Source, Open Data oder Open Access Lizenzen footnote:osi-license[link:https://opensource.org/licenses[Liste von, vom OSI auf opensourceheit geprüften Open Source Lizenzen]]
+| 4%
+| 
+| 
+| 
+
+| Massnahmen zur Sicherstellung der Lizenzkonformität vorhanden (https://en.wikipedia.org/wiki/Developer_Certificate_of_Origin[DCO],  https://de.wikipedia.org/wiki/Contributor_License_Agreement[CLA], Software Composition Analysis (SCAs), ...)
+| 4%
+| 
+| 
+| 
+
+| image:https://upload.wikimedia.org/wikipedia/commons/3/3c/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg[Geteiltes Wissen,64]
+| 8% - Geteiltes Wissen
+| 
+| 
+| 
+
+| Nutzerbasis 
+| 4%
+| 
+| 
+| 
+
+| Diversität der Contributoren - per Individuum 
+| 2%
+| 
+| 
+| 
+
+| Diversität der Contributoren - nach Unternehmen
+| 2%
+| 
+| 
+| 
+
+| image:https://upload.wikimedia.org/wikipedia/commons/b/b3/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_07_Partizipationskultur_Farbig.svg[Partizipationskultur,64]
+| 8% - Partizipationskultur
+| 
+| 
+| 
+
+| Partizipationskultur möglich (öffentliche CICD-Systeme, Artefakt-Repositories, Qualitätsmetriken)
+| 4%
+| 
+| 
+| 
+
+| Partizipations Best-Practices werden gelebt (Peer-Reviews, CI, ...)
+| 4%
+| 
+| 
+| 
+
+| image:https://upload.wikimedia.org/wikipedia/commons/2/24/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_08_Faire_F%C3%BChrungsstrukturen_Farbig.svg[Faire Führungsstrukturen,64]
+| 8% - Faire Führungsstrukturen
+| 
+| 
+| 
+
+| Transparente Governance-Strukturen
+| 4%
+| 
+| 
+| 
+
+| Anwendung von Good Governance Best-Practices (bspw. öffentliche Wahlen, Meritokratie-Prinzip, ...)
+| 4%
+| 
+| 
+| 
+
+| image:https://upload.wikimedia.org/wikipedia/commons/7/7c/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_09_Breit_Abgest%C3%BCtzte_Finanzierung_Farbig.svg[Breit abgestützte Finanzierung,64]
+| 8% - Breit abgestützte Finanzierung
+| 
+| 
+| 
+
+| Diversität der Finanzierung der Infrastrukturkomponenten (Hardware, Dienste, Community)
+| 4%
+| 
+| 
+| 
+
+| Diversität der Finanzierung der involvierten Personen (Art der Unternehmung (NPO, PO, ...), ...)
+| 4%
+| 
+| 
+| 
+
+| **Eigenschaften des Ökosystems** 
+| 40% (insgesamt)
+| 
+| 
+| 
+
+| 
+| 
+| 
+| 
+| 
+
+| positive ökologische, soziale oder ökonomische Wirkung
+| 4%
+| 
+| 
+| 
+
+| Herstellung und Anwendung nutzen Ressourcen aus nachhaltigem Hintergrund
+| 4%
+| 
+| 
+| 
+
+| image:https://upload.wikimedia.org/wikipedia/commons/2/2d/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_10_Beitrag_Zur_Nachhaltigen_Entwicklung_Farbig.svg[Auswirkungen auf die Gesellschaft,64]
+| **8%** - Auswirkungen auf die Gesellschaft
+| 
+| 
+| 
+
+| 
+| 
+| 
+| 
+| 
+
+| Aktualität
+| 5%
+| 
+| 
+| 
+
+| Originalität
+| 5%
+| 
+| 
+| 
+
+| Highlight-Faktor
+| 5%
+| 
+| 
+| 
+
+| Relevanz
+| 5%
+| 
+| 
+| 
+
+| image:https://upload.wikimedia.org/wikipedia/commons/f/ff/DINAcon_Logo_rgb_RZ.svg[DINAcon Logo,64]
+| **20%** - Kategoriefokus: Data, Business, Government, Newcomer, Community, Education
+| 
+| 
+| 
+
+| 
+| 
+| 
+| 
+| 
+
+| Gesamtnote
+| **100%**
+| 
+| 
+|
+|===
