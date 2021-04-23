@@ -1,35 +1,47 @@
 # awards
 
+Jährlich werden mit den DINAcon Awards Projekte und Organisationen (Unternehmen, Behörden, Communities, ...) ausgezeichnet, die im Sinne der [digitalen Nachhaltigkeit](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit) eine Vorbildfunktion einnehmen.
+
+## [2020](2020)
+
+## [2021](2021)
+
+In diesem Jahr werden die DINAcon Awards zum fünften Mal in den folgenden Kategorien vergeben. 
+
 ## Kategorien
 
 ### »Open-Data« Award
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_03_Semantische_Daten_Farbig.svg/240px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_03_Semantische_Daten_Farbig.svg.png)
 
-Mit dem »Open-Data« Award werden Projekte ausgezeichnet, die bereits über die Community hinaus auf Wirtschaft, Politik oder Gesellschaft ausstrahlen und sich durch offene Handhabung von Daten oder Technologie abheben.
+Mit dem »Open-Data« Award werden Projekte ausgezeichnet, die auf **Wirtschaft, Politik oder Gesellschaft ausstrahlen und sich durch die offene Nutzung, Transformation oder Freigabe von Daten abheben**.
 
 ### »Business« Award
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_09_Breit_Abgest%C3%BCtzte_Finanzierung_Farbig.svg/240px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_09_Breit_Abgest%C3%BCtzte_Finanzierung_Farbig.svg.png)
 
-Mit dem »Business« Award sollen Unternehmen und Organisationen ausgezeichnet werden, welche in ihrem Geschäftsmodell offene Standards integrieren oder durch Umsetzung der digitalen Transformation in einer Weise Nutzen für die Gesellschaft generieren.
+Der »Business« Award **zeichnet Geschäftsmodelle aus, welche digital nachhaltige Aspekte fest in sich verankert haben**.
 
 ### »Open-Gouvernment« Award
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg/240px-Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg.png)
 
-Verwaltungen, die Open Source-Software erfolgreich einsetzen, offene Daten bereitstellen oder offene Standards etablieren, können sich für die Kategorie »Open-Gouvernment« Award bewerben. Mit diesem Preis wird der besonders vorbildliche Umgang mit Open-Themen honoriert.
+Mit dem »Open-Gouvernment« Award wird die **besonders vorbildliche Umsetzung von Gründsätzen im Sinne der digitalen Nachhaltigkeit im öffentlichen Sektor honoriert**.
 
 ### »Best-Newcomer« Award
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Icon_DINA_Schwerpunkte_Parldigi_02_Open_Standards_Farbig.svg/240px-Icon_DINA_Schwerpunkte_Parldigi_02_Open_Standards_Farbig.svg.png)
 
-In der Kategorie »Best-Newcomer« Award werden Open Source-Projekte geehrt, die nicht älter als drei Jahre sind und spannende neue Ansätze bieten.
+In der Kategorie »Best-Newcomer« Award werden Projekte geehrt, die in **jüngster Vergangenheit initiiert wurden und innovative, neue Ansätze aufzeigen**.
 
 ### »Community« Award
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_07_Partizipationskultur_Farbig.svg/240px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_07_Partizipationskultur_Farbig.svg.png)
 
-Mit dem »Community« Award werden Projekte aus der Open-Community belohnt, die mutig vorangehen und in nicht-Gewinnorientierter Organisation offene Software Lösungen bereitstellen oder mit ihrem Einsatz zu Innovation und digitaler Nachhaltigkeit beitragen.
+Mit dem »Community« Award werden **breit-abgestützte und partizipative Projekte belohnt, die gemeinsam mutig vorangehen und mit ihrem Einsatz zu dezentraler Innovation und digitaler Nachhaltigkeit beitragen**.
 
-## [2020](2020)
+### »Open Knowledge« Award
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg/240px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg.png)
+
+Der »Open Knowledge« Award honoriert Projekte, welche es sich zur Aufgabe gemacht haben, **ein offenes Bildungsangebot für die Allgemeinheit zu schaffen oder Wissen breit zugänglich zu machen**.
