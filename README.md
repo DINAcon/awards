@@ -16,17 +16,17 @@ In diesem Jahr werden die DINAcon Awards zum fünften Mal in den folgenden Kateg
 
 Mit dem »Open-Data« Award werden Projekte ausgezeichnet, die auf **Wirtschaft, Politik oder Gesellschaft ausstrahlen und sich durch die offene Nutzung, Transformation oder Freigabe von Daten abheben**.
 
-### »Business« Award
+### »Open-Business« Award
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_09_Breit_Abgest%C3%BCtzte_Finanzierung_Farbig.svg/240px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_09_Breit_Abgest%C3%BCtzte_Finanzierung_Farbig.svg.png)
 
 Der »Business« Award **zeichnet Geschäftsmodelle aus, welche digital nachhaltige Aspekte fest in sich verankert haben**.
 
-### »Open-Gouvernment« Award
+### »Open-Government« Award
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg/240px-Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg.png)
 
-Mit dem »Open-Gouvernment« Award wird die **besonders vorbildliche Umsetzung von Gründsätzen im Sinne der digitalen Nachhaltigkeit im öffentlichen Sektor honoriert**.
+Mit dem »Open-Government« Award wird die **besonders vorbildliche Umsetzung von Gründsätzen im Sinne der digitalen Nachhaltigkeit im öffentlichen Sektor honoriert**.
 
 ### »Best-Newcomer« Award
 
@@ -40,7 +40,7 @@ In der Kategorie »Best-Newcomer« Award werden Projekte geehrt, die in **jüngs
 
 Mit dem »Community« Award werden **breit-abgestützte und partizipative Projekte belohnt, die gemeinsam mutig vorangehen und mit ihrem Einsatz zu dezentraler Innovation und digitaler Nachhaltigkeit beitragen**.
 
-### »Open Knowledge« Award
+### »Open-Knowledge« Award
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg/240px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg.png)
 
