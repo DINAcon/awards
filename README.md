@@ -34,14 +34,14 @@ Mit dem »Open-Government« Award wird die **besonders vorbildliche Umsetzung vo
 
 In der Kategorie »Best-Newcomer« Award werden Projekte geehrt, die in **jüngster Vergangenheit initiiert wurden und innovative, neue Ansätze aufzeigen**.
 
-### »Community« Award
+### »Open-Community« Award
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_07_Partizipationskultur_Farbig.svg/240px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_07_Partizipationskultur_Farbig.svg.png)
 
-Mit dem »Community« Award werden **breit-abgestützte und partizipative Projekte belohnt, die gemeinsam mutig vorangehen und mit ihrem Einsatz zu dezentraler Innovation und digitaler Nachhaltigkeit beitragen**.
+Mit dem »Open-Community« Award werden **breit-abgestützte und partizipative Projekte belohnt, die gemeinsam mutig vorangehen und mit ihrem Einsatz zu dezentraler Innovation und digitaler Nachhaltigkeit beitragen**.
 
-### »Open-Knowledge« Award
+### »Open-Learning« Award
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg/240px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg.png)
 
-Der »Open Knowledge« Award honoriert Projekte, welche es sich zur Aufgabe gemacht haben, **ein offenes Bildungsangebot für die Allgemeinheit zu schaffen oder Wissen breit zugänglich zu machen**.
+Der »Open-Learning« Award honoriert Projekte, welche es sich zur Aufgabe gemacht haben, **ein offenes Bildungsangebot für die Allgemeinheit zu schaffen oder Wissen breit zugänglich zu machen**.
