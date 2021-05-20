@@ -10,19 +10,24 @@ orga is supporting
 @21
 public -> proj : nominieren
 proj is NOMINIERT
+orga -> jury : cfp
 
-@+10
+@+4
+proj is BEWERBUNG
+
+@27
+orga -> public : d1
+
+@29
+orga -> public : d2
 orga -> jury : nominieren
 jury is Zusammenstellung
 
-@+2
-proj is BEWERBUNG
-
-@+1
+@+3
 jury is "Top 3"
 orga -> jury : BBB
 
-@+2
+@+4
 jury is "Gewinner"
 jury -> orga : informieren
 
@@ -35,12 +40,12 @@ jury is "Session"
 orga -> jury
 jury -> orga : workshop
 
-@+4
+@+3
 orga -> jury
 jury -> orga : BBB
 jury is "DINAcon"
 
-@+1
+@+2
 proj is Gewinner
 orga -> public : publish
 jury is {-}
