@@ -1,0 +1,47 @@
+@startuml
+concise "Öffentlichkeit" as public
+robust "Projekt" as proj
+concise "Jury" as jury
+concise "Orga Team" as orga
+
+@18
+orga is supporting
+
+@21
+public -> proj : nominieren
+proj is NOMINIERT
+
+@+10
+orga -> jury : nominieren
+jury is Zusammenstellung
+
+@+2
+proj is BEWERBUNG
+
+@+1
+jury is "Top 3"
+orga -> jury : BBB
+
+@+2
+jury is "Gewinner"
+jury -> orga : informieren
+
+@+1
+proj is "in TOP 3"
+orga -> public : publish
+
+@+1
+jury is "Session"
+orga -> jury
+jury -> orga : workshop
+
+@+4
+orga -> jury
+jury -> orga : BBB
+jury is "DINAcon"
+
+@+1
+proj is Gewinner
+orga -> public : publish
+jury is {-}
+@enduml
