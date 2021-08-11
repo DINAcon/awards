@@ -1,5 +1,5 @@
 
-![](http://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fgithub.com%2Fdinacon%2Fawards%2Fblob%2Fmaster%2F2020%2Fslides%2Fkickoff%2FPITCHME.md&ecc=L)
+![](http://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fgithub.com%2FDINAcon%2Fawards%2Fblob%2Fmaster%2F2021%2Fslides%2Fkickoff%2Fcontent.md&qzone=1&margin=0&size=400x400&ecc=L)
 
 ## slides by [reveal.js](https://revealjs.com)
 
