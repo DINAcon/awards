@@ -1,5 +1,75 @@
 =  2021
 
+== Jury
+
+[cols="1,1", options="header"] 
+|===
+| Kategorie 
+| Mitglieder 
+
+(alphabetisch per Nachname sortiert)
+
+| Open-Data Award
+| 
+
+https://www.linkedin.com/in/giammi/[Gian-Maria Daffré]
+
+Christian Nüssli
+
+Stefan Oderbolz
+
+| Open-Business Award
+| 
+
+Thomas Häfliger
+
+David dal Buoco
+
+Dagmar Muth
+
+| Open-Government Award
+| 
+
+Jonas Bieri
+
+Jean Luc Cochard
+
+Daniela Koller
+
+| Best-Newcomer Award
+| 
+
+https://www.linkedin.com/in/ninomueller/[Nino Müller]
+
+https://www.linkedin.com/in/bhulliger/[Brigitte Hulliger]
+
+Linda Sulzer
+
+| Open-Community Award
+| 
+
+https://www.linkedin.com/in/rahel-ryf-54a4b4160/[Rahel Ryf]
+
+link:++https://www.linkedin.com/in/urs-fässler-09999194/++[Urs Fässler]
+
+Marcel Waldvogel
+
+| Open-Learning Award
+| 
+
+Cornelia Epprecht
+
+Anton Bolfing
+
+Pascal Piller
+|===
+
+=== Legende
+
+*https://de.wikipedia.org/wiki/Schriftschnitt#Variation_der_Schriftstärke[BOLD]* : Hauptansprechpartner
+
+_https://de.wikipedia.org/wiki/Kursivschrift[italic]_ : Sessionorganisator
+
 == Zeitplan
 
 image::http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/DINAcon/awards/master/2021/timing.puml[timing]
