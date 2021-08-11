@@ -7,6 +7,8 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/DINAcon_Logo_rgb_RZ.svg)
 
+## awards 2021
+
 --
 
 ## willkommen
@@ -92,7 +94,7 @@ ggfs. Sprecher an der DINAcon
 
 nomination(en) & bewerbung(en) 
 
-30+ & 10 ...
+38 & 10 ...
 
 --- 
 
