@@ -1,5 +1,5 @@
 
-![](http://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fgithub.com%2FDINAcon%2Fawards%2Fblob%2Fmaster%2F2021%2Fslides%2Fkickoff%2Fcontent.md&qzone=1&margin=0&size=400x400&ecc=L)
+![](http://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fgithub.com%2Fdinacon%2Fawards%2Fblob%2Fmaster%2F2020%2Fslides%2Fkickoff%2FPITCHME.md&ecc=L)
 
 ## slides by [reveal.js](https://revealjs.com)
 
@@ -55,7 +55,7 @@ start der shortlist "best 3" phase
 
 ## zeit(en)
  - bis zum Sonntag 05.09. : Shortlist pro Kategorie
- - Workshop in KW 38 - Ort ?? & [Zeit (doodle)](https://doodle.com/poll/tr689eq8cc8hhk3a)
+ - Workshop in KW 38 - Ort ?? & [Zeit (doodle)](https://doodle.com/poll/5vcmyia7d83a73q8?utm_source=poll&utm_medium=link)
  - DINAcon 2021 - format: hybrid
 
 -- 
@@ -123,37 +123,37 @@ Open-Government >> Raum 5
 
 ## Open-Data Award
 
-Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/rjs63P5KdsHSmZm)
+Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/ftdKZHjQQ52AQkQ)
 
 -- 
 
 ## Open-Business Award
 
-Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/bXqE5TW3YeC8DbQ)
+Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/EtmrTCGCwxB3EW8)
 
 -- 
 
 ## Open-Government Award
 
-Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/YFKAMkFTi4HL2xG)
+Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/T9Xwg869zsXLa9R)
 
 -- 
 
 ## Best-Newcomer Award
 
-Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/RsgfEYtwBqiDzYk)
+Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/foKZnRCDHHXtJ4m)
 
 -- 
 
 ## Open-Community Award
 
-Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/KD9HJftycizKofY)
+Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/2c2rSjHiJ97ESHt)
 
 -- 
 
 ## Open-Learning Award
 
-Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/Z7gJx8LrEfnSw72)
+Dokumente auf [→ Nextcloud](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/JHqjM4rnbWxjDSA)
 
 --- 
 
