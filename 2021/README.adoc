@@ -14,7 +14,7 @@ https://www.linkedin.com/in/giammi/[Gian-Maria Daffré]
 
 Christian Nüssli
 
-Stefan Oderbolz
+*Stefan Oderbolz*
 
 | Open-Business Award
 | 
@@ -28,27 +28,27 @@ Dagmar Muth
 | Open-Government Award
 | 
 
-Jonas Bieri
+_Jonas Bieri_
 
 Jean Luc Cochard
 
-Daniela Koller
+*Daniela Koller*
 
 | Best-Newcomer Award
 | 
 
 https://www.linkedin.com/in/ninomueller/[Nino Müller]
 
-https://www.linkedin.com/in/bhulliger/[Brigitte Hulliger]
+https://www.linkedin.com/in/bhulliger/[*Brigitte Hulliger*]
 
-Linda Sulzer
+_Linda Sulzer_
 
 | Open-Community Award
 | 
 
 https://www.linkedin.com/in/rahel-ryf-54a4b4160/[Rahel Ryf]
 
-link:++https://www.linkedin.com/in/urs-fässler-09999194/++[Urs Fässler]
+link:++https://www.linkedin.com/in/urs-fässler-09999194/++[*Urs Fässler*]
 
 Marcel Waldvogel
 
@@ -57,7 +57,7 @@ Marcel Waldvogel
 
 Cornelia Epprecht
 
-Anton Bolfing
+*Anton Bolfing*
 
 Pascal Piller
 |===
