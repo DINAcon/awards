@@ -14,7 +14,7 @@
 
 ## ziel(e)
 
-ende der [shortlist "best 3" phase](https://awards.dinacon.ch/bewerbungen-2021/) → veröffentlichung diese woche
+ende der [shortlist "best 3" phase](https://awards.dinacon.ch/bewerbungen-2021/)
 
 BBB gruppenfoto - jetzt!
 
@@ -25,9 +25,9 @@ Award Gewinner festlegen
 ## timing
 
  - 15' willkommen & infos ←←
- - 30' 2 x top 3 + 3 (q&a) & vote
+ - 30' 2 x top 3 + 2 (q&a) & vote
  - 10' pause
- - 30' 2 x top 3 + 3 (q&a) & vote
+ - 30' 2 x top 3 + 2 (q&a) & vote
  - 10' wrap up & puffer
  - (virtual) apero
 
@@ -69,11 +69,11 @@ who & why?
 abstimmung(en)
 ### Gewinner - "Best-Newcomer"?
 
-A) Projekt A
+A) Gemeindescan
 
-B) Projekt B
+B) POSMO
 
-C) Projekt C
+C) ZITADEL
 
 D) Enthaltung
 
@@ -95,11 +95,11 @@ who & why?
 abstimmung(en)
 ### Gewinner - "Open-Data"?
 
-A) Projekt A
+A) Grossratswahlen im Kanton Basel-Stadt
 
-B) Projekt B
+B) SmapShot
 
-C) Projekt C
+C) Verkehrsdaten ASTRA
 
 D) Enthaltung
 
@@ -125,11 +125,11 @@ who & why?
 abstimmung(en)
 ### Gewinner - "Open-Community"?
 
-A) Projekt A
+A) FairElection
 
-B) Projekt B
+B) GeoUnconference
 
-C) Projekt C
+C) GNU/Linux.ch
 
 D) Enthaltung
 
@@ -151,17 +151,25 @@ who & why?
 abstimmung(en)
 ### Gewinner - "Open-Government"?
 
-A) Projekt A
+A) Digitale Transparenz im öffentlichen Raum
 
-B) Projekt B
+B) Gesellschaftsmonitoring COVID-19
 
-C) Projekt C
+C) swissgeol.ch
 
 D) Enthaltung
 
 ---
 
 ## thanks a lot!
+
+--
+
+# varia
+
+Open Data Students Award
+
+Promotion : [Material](https://nextcloud.fdn-tools.inf.unibe.ch/index.php/s/fQCLwSB92jf9SmA)!
 
 --
 
