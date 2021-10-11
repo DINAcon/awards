@@ -1,5 +1,7 @@
 # awards
 
+[![Gitpod](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/dinacon/awards) 
+
 Jährlich werden mit den DINAcon Awards Projekte und Organisationen (Unternehmen, Behörden, Communities, ...) ausgezeichnet, die im Sinne der [digitalen Nachhaltigkeit](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit) eine Vorbildfunktion einnehmen.
 
 In diesem Jahr werden die DINAcon Awards zum fünften Mal in den folgenden Kategorien vergeben. 
