@@ -24,7 +24,7 @@ Der »Business« DINAcon Award **zeichnet Geschäftsmodelle aus, welche digital 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg/240px-Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg.png)
 
-Mit dem »Open-Government« DINAcon Award wird die **besonders vorbildliche Umsetzung von Gründsätzen im Sinne der digitalen Nachhaltigkeit im öffentlichen Sektor honoriert**.
+Mit dem »Open-Government« DINAcon Award wird die **besonders vorbildliche Umsetzung von Grundsätzen im Sinne der digitalen Nachhaltigkeit im öffentlichen Sektor honoriert**.
 
 ### »Best-Newcomer« Award
 
