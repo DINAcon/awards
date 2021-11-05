@@ -1,6 +1,6 @@
 # awards
 
-[![DINAcon Award Badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fraw.githubusercontent.com%2FDINAcon%2Fawards%2Fmain%2Fbadge.json)](https://www.dinacon.ch)
+[![DINAcon Award Badge](https://img.shields.io/endpoint?style=social&label=badge%20via%20shields.io&url=https%3A%2F%2Fraw.githubusercontent.com%2FDINAcon%2Fawards%2Fmain%2Fbadge.json)](https://awards.dinacon.ch)
 [![Gitpod](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/dinacon/awards) 
 
 Jährlich werden mit den DINAcon Awards Projekte und Organisationen (Unternehmen, Behörden, Communities, ...) ausgezeichnet, die im Sinne der [digitalen Nachhaltigkeit](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit) eine Vorbildfunktion einnehmen.
