@@ -1,13 +1,13 @@
-[![](https://upload.wikimedia.org/wikipedia/commons/f/ff/DINAcon_Logo_rgb_RZ.svg)](https://dinacon.ch)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DINAcon_Logo_rgb_RZ.svg/300px-DINAcon_Logo_rgb_RZ.svg.png)](https://dinacon.ch)
 
 ## [(Digitale) Nachhaltigkeit](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit)
 Organisationskomitee der Konferenz für digitale Nachhaltigkeit - seit 2017
 ---
 # who?
 
-[<img width="256" data-src="https://www.ch-open.ch/wp-content/uploads/2021/12/logo_chopen_web_big-1-2.png" alt="CH Open"/>](https://ch-open.ch)
+[<img width="200" data-src="https://www.ch-open.ch/wp-content/uploads/2021/12/logo_chopen_web_big-1-2.png" alt="CH Open"/>](https://ch-open.ch)
 
-<img width="256" class="center" data-src="https://www.digitaleconomyaward.ch/themes/digital_ecomony_award_2018/img/digital_economy_award.svg" alt="Digital Econonmy Award"/>
+<img width="200" class="center" data-src="https://www.digitaleconomyaward.ch/themes/digital_ecomony_award_2018/img/digital_economy_award.svg" alt="Digital Econonmy Award"/>
 ---
 # what?
 
@@ -61,3 +61,4 @@ CH Open: [@tschitschable](https://twitter.com/tschitschable) & [@MarkusTiede](ht
 
 ---
 # q&a
+
