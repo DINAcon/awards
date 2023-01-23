@@ -61,4 +61,3 @@ CH Open: [@tschitschable](https://twitter.com/tschitschable) & [@MarkusTiede](ht
 
 ---
 # q&a
-
