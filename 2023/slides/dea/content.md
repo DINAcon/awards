@@ -2,58 +2,63 @@
 
 ## [(Digitale) Nachhaltigkeit](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit)
 Organisationskomitee der Konferenz für digitale Nachhaltigkeit - seit 2017
----
-# who?
+--
+# wer?
 
 [<img width="200" data-src="https://www.ch-open.ch/wp-content/uploads/2021/12/logo_chopen_web_big-1-2.png" alt="CH Open"/>](https://ch-open.ch)
 
 <img width="200" class="center" data-src="https://www.digitaleconomyaward.ch/themes/digital_ecomony_award_2018/img/digital_economy_award.svg" alt="Digital Econonmy Award"/>
 ---
-# what?
+# was?
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Icon_Digitale_Nachhaltigkeit_Farbig.svg/256px-Icon_Digitale_Nachhaltigkeit_Farbig.svg.png)
 
-add **sustainability** aspects to [digital economy awards](http://digitaleconomyaward.ch)
+**Nachhaltigkeits**kriterien in den [Digital Economy Awards](http://digitaleconomyaward.ch) verankern
 
-**15%** weight
+**15%** Gewichtung
 ---
-# how?
+# wie?
 
-combine **three _de facto_ standards** for openness (1) and sustainability (2, 3)
+bis 2025 **drei _de facto_ Standards** für Nachhaltigkeit (1, 2) und Offenheit (3) **kombinieren**
 
-1. Linux Foundation [Project](https://openssf.org) <br> > [**OpenSSF Best Practices**](https://bestpractices.coreinfrastructure.org) (140+)
+1. [Institute for Public Sector Transformation](https://www.bfh.ch/en/research/research-areas/public-sector-transformation/)  @ [BFH](https://bfh.ch/en/) <br> > [**Konzept Digitale Nachhaltigkeit**](https://github.com/DINAcon/awards/blob/main/criteria.adoc) (10+)
+______
+2. Digital Public Goods [Alliance](https://digitalpublicgoods.net/who-we-are/) <br> > [**DPG Standard**](https://digitalpublicgoods.net/standard/) (9+)
 
-2. [Institute for Public Sector Transformation](https://www.bfh.ch/en/research/research-areas/public-sector-transformation/)  @ [BFH](https://bfh.ch/en/) <br> > [**Concept of digital sustainability**](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit) (10+)
+3. Linux Foundation [Project](https://openssf.org) <br> > [**OpenSSF Best Practices**](https://bestpractices.coreinfrastructure.org) (140+) et al. [shields.io](https://shields.io) 
 
-3. Digital Public Goods [Alliance](https://digitalpublicgoods.net/who-we-are/) <br> > [**DPG Standard**](https://digitalpublicgoods.net/standard/) (9+)
 ---
-# questions?
+# Fragen? (1/2)
+1.a Welche Voraussetzungen [für ein **nachhaltiges, digitales Gut**](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit#Eigenschaften_des_digitalen_Guts) erfüllt Ihr Produkt (bzw. welche nicht und warum)?
 
-1. Does your project hold an [**OpenSSF Best Practices** badge](https://bestpractices.coreinfrastructure.org/en/projects) (e.g. [passing, silver, gold](https://bestpractices.coreinfrastructure.org/en/criteria))?
+1.b Welche Voraussetzungen [für ein **nachhaltiges Ökosystem**](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit#Eigenschaften_des_%C3%96kosystems) weist Ihr Unternehmen auf (bzw. welche nicht und warum)?
 
-2. Show [**digital sustainability** (award) criteria](https://github.com/DINAcon/awards/blob/main/criteria.adoc) being met by your project.
+---
+# Fragen? (2/2)
+2. Welche Voraussetzungen [eines "**Digital Public Good**"](https://digitalpublicgoods.net/eligibility/) erfüllt ihre Lösung (bzw. welche nicht und warum)? 
 
-3. [Is your digital solution ready to be a **Digital Public Good**?](https://digitalpublicgoods.net/eligibility/) Please provide information.
+3. Verfügt Ihr über offene Abzeichen (s.g. [Badges](https://shields.io)) bspw. [dem **OpenSSF Best Practices**](https://bestpractices.coreinfrastructure.org/en/projects)? Falls nein, warum nicht?
+
 ---
 # sum(mary)
 
 ```md [|1|3|5|7|]
-(Passing? 2% + Silver? 2% + Gold? 1%) // OpenSSF = 5%
++ 1.5% * 10 DINA = 15%    // in 2023 > 15 > 10 > 5
 
-+ 0.5% * 10 DINA = 5%
++ 0.5% * (1-8) DPG + 1% * (9) DPG = 5%  // ab 2024
 
-+ 0.5% * (1-8) DPG + 1% * (9) DPG = 5%
++ (Passing? 2% + Silver? 2% + Gold? 1%) // ab 2025
 
 = 15%
 ```
 
-<sub>ℹ️ adding **weight of overlapping criterias** e.g. open licenses is desired</sub>
+<sub>ℹ️ Summierung von **Gewichtungen von überlappenden Kriterien** z.B. "open licenses" ist beabsichtigt</sub>
 ---
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg/256px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg.png)
 
 # jury
 
-2 per category (3 - 4)
+2 pro Kategorie (4 - 6)
 
 CH Open: [@tschitschable](https://twitter.com/tschitschable) & [@MarkusTiede](https://twitter.com/MarkusTiede)
 
