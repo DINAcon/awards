@@ -29,9 +29,9 @@ ______
 
 ---
 # Fragen - 2023
-1.a Welche Voraussetzungen [für ein **nachhaltiges, digitales Gut**](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit#Eigenschaften_des_digitalen_Guts) erfüllt Ihr Produkt (bzw. welche nicht und warum)?
+1.a Welche Eigenschaft [für ein **nachhaltiges, digitales Gut**](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit#Eigenschaften_des_digitalen_Guts) erfüllt Ihr Produkt (bzw. welche nicht und warum)?
 
-1.b Welche Voraussetzungen [für ein **nachhaltiges Ökosystem**](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit#Eigenschaften_des_%C3%96kosystems) weist Ihr Unternehmen auf (bzw. welche nicht und warum)?
+1.b Welche Eigenschaft [für ein **nachhaltiges Ökosystem**](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit#Eigenschaften_des_%C3%96kosystems) weist Ihr Unternehmen auf (bzw. welche nicht und warum)?
 
 ---
 # Fragen - 2024++
