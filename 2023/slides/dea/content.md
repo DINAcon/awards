@@ -43,13 +43,13 @@ ______
 # sum(mary)
 
 ```md [|1|3|5|7|]
-+ 1% * 10 DINA = 10%    // in 2023 > 10 > 6 > 3
++ 1% * 10 DINA = 10%    // in 2023 > 10 > 5 > ~3
 
-+ 0.5% * (1-8) DPG + 1% * (9) DPG = 4%  // ab 2024
++ 0.5% * (1-8) DPG + 1% * (9) DPG = 5%  // ab 2024
 
 + (Passing? 1% + Silver? 1% + Gold? 1%) = 3% // ab 2025
 
-= 15%
+= 10%
 ```
 
 <sub>ℹ️ Summierung von **Gewichtungen von überlappenden Kriterien** z.B. "open licenses" ist beabsichtigt</sub>
